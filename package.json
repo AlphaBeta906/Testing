@@ -14,8 +14,6 @@
   },
   "dependencies": {
     "@builder.io/partytown": "^0.7.3",
-    "@slinkity/renderer-svelte": "^1.0.0",
-    "dotenv": "^16.0.3",
-    "slinkity": "^0.8.3"
+    "dotenv": "^16.0.3"
   }
 }
